@@ -9,10 +9,10 @@ The data scraped includes: The Property Name, Price and Link to the details page
 When asked to enter the url, please enter the url of 99acres after selecting a city and clicking the search button.
 
 So first go to this page and search for your location:-
-![](/propertySearchAndDataEntry/media/99acres.png)
+![](/propertyListingsScrapper/media/99acres.png)
 
 Then copy the url and paste it in the prompt:-
-![](/propertySearchAndDataEntry/media/99acres_location_search.png)
+![](/propertyListingsScrapper/media/99acres_location_search.png)
 
 ## Requirements:-
 You will have to create 2 things for this code to run besides install the requirements from the imports.
